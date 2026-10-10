@@ -60,15 +60,3 @@ Code0 was used throughout the project to accelerate development. Specific tasks 
 
 ---
 
-### Publishing to GitHub (quick steps)
-1. **Create a new public repository** on GitHub (e.g., `mern-task-manager`).
-2. In the local project root (`mern-task-app`), run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit – MERN Task Manager"
-   git branch -M main
-   git remote add origin https://github.com/manojkumar-912/mern-task-manager.git
-   git push -u origin main
-   ```
-3. Verify the files appear on GitHub, including this `README.md`.
