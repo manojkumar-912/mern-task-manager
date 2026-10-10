@@ -72,5 +72,3 @@ Code0 was used throughout the project to accelerate development. Specific tasks 
    git push -u origin main
    ```
 3. Verify the files appear on GitHub, including this `README.md`.
-
-You can now share the repository link with interviewers or collaborators.
