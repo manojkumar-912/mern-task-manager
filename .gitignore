@@ -1,0 +1,6 @@
+﻿# Node modules – ignore them
+node_modules/
+# Vite build output
+dist/
+# Log files
+*.log
