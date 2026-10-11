@@ -41,12 +41,6 @@ A sleek, premium‑looking **Task Manager** web application built with the **MER
    npm run dev      # runs on http://localhost:5173
    ```
 
-## How to Run the Application
-1. Ensure MongoDB is running (`net start MongoDB` or `mongod`).
-2. Start the backend (`node server.js`).
-3. In a separate terminal, start the frontend (`npm run dev`).
-4. Open `http://localhost:5173` in a browser, add/edit/delete tasks, and watch the changes persist in MongoDB.
-
 ## AI Tool Used
 **Code0** – the VS Code extension you linked (`https://marketplace.visualstudio.com/items?itemName=frigga.code0`).
 
